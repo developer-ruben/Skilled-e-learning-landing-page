@@ -46,6 +46,7 @@ body {
   width: 100%;
   position: relative;
   overflow-x: hidden;
+  font-weight: 500;
 }
 
 h1 {
